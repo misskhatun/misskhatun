@@ -1,16 +1,17 @@
-### Hi there 👋
+<!Doctype html>
+<html>
+	<head>
+	<title> About Me </title>
 
-<!--
-**misskhatun/misskhatun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	</head>
+<body>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><i>Queens College </i></h2>
+<h6>Miss Prity Khatun </h6>
+<p> I want to travel </p>
+<p> I want to graduate in 2022 </p>
+<p> Want to become a software engineer </p>
+</body>
+</html>
+
