@@ -2,16 +2,12 @@
 <html>
 	<head>
 	<title> About Me </title>
-
 	</head>
 <body>
+	<h1> About Me>
+		<p> Hello, my name is Miss Prity Khatun, I am currently a senior at Queens College majoring in Computer Science and minoring in Mathematics. I am currently expecting to graduate on May 2022.</p>
+		
 
-
-<h2><i>Queens College </i></h2>
-<h6>Miss Prity Khatun </h6>
-<p> I want to travel </p>
-<p> I want to graduate in 2022 </p>
-<p> Want to become a software engineer </p>
 </body>
 </html>
 
